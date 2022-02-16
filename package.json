@@ -1,0 +1,38 @@
+{
+  "name": "robofox-copyright-footer",
+  "version": "1.0.3",
+  "description": "robofox standard copyright footer",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib --copy-files"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robo-fox/copyright.git"
+  },
+  "keywords": [
+    "robofox",
+    "copyright"
+  ],
+  "author": {
+    "name": "Harry Fox",
+    "email": "hxfox1@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robo-fox/copyright/issues"
+  },
+  "homepage": "https://github.com/robo-fox/copyright#readme",
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-use-current-date": "^1.0.0"
+  },
+  "publishConfig": {
+    "@hxf31891:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
