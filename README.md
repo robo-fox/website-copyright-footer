@@ -13,7 +13,7 @@
 ## React Web Copyright Footer
 
 - I published this package to save myself a couple minutes, please feel free to use it in your own projects.
-- Simply pass in the name of the owning company (companyName) and the developent company/individual (developerName)
+- Simply pass in the name of the owning company (companyName) and the developent company/individual (developerName). The year automatically updates for you.
 
 - Working on SVGs for other US states, as of 2/16/22 only LA (Lousiana) is available
 
