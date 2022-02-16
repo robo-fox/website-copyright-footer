@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://www.npmjs.com/package/robofox-copyright-footer">
-    <img alt="npm" src="https://badgen.net/npm/v/robofox-copyright-footer?color=561ecb" />
+    <img alt="npm" src="https://badgen.net/npm/v/robofox-copyright-footer?color=2c139f" />
   </a>
   <a href="https://www.npmjs.com/package/robofox-copyright-footer">
-    <img alt="" src="https://badgen.net/npm/dt/robofox-copyright-footer?color=561ecb" />
+    <img alt="" src="https://badgen.net/npm/dt/robofox-copyright-footer?color=2c139f" />
   </a>
   <a href="https://bundlephobia.com/result?p=robofox-copyright-footer">
-    <img alt="" src="https://badgen.net/bundlephobia/min/robofox-copyright-footer?color=561ecb" />
+    <img alt="" src="https://badgen.net/bundlephobia/min/robofox-copyright-footer?color=2c139f" />
   </a>
 </div>
 
