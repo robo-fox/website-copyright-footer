@@ -1,6 +1,6 @@
 {
   "name": "robofox-copyright-footer",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "robofox standard copyright footer",
   "main": "lib/index.js",
   "scripts": {
@@ -31,8 +31,9 @@
     "@hxf31891:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1"
+    "@babel/cli": "^7.17.3",
+    "@babel/core": "^7.17.4",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-react": "^7.16.7"
   }
 }
